@@ -12,13 +12,13 @@
 const XiaoYu = {
   pronouns: "she",
   code: [JAVA],
-  tools: [Reactor, Docker,Spring0Boot,Spring-Cloud],
+  tools: [Reactor JAVA, Docker,Spring-Boot,Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern"],
   communities: {
-                        dromara: "creator of https://dromara.org, author of soul, hmily",
-                        apache: "Apache ShardingSphere Committer",
-                      },
- challenge: "no code"
+      dromara: "creator of https://dromara.org, author of soul, hmily",
+      apache: "Apache ShardingSphere Committer",
+  },
+  challenge: "No Code"
 }
 ```
 
