@@ -17,7 +17,7 @@ const XiaoYu = {
   tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern"],
   communities: {
-      dromara: "creator of https://dromara.org, author of soul, hmily",
+      dromara: "creator of https://dromara.org, author of soul, hmily, raincat, myth",
       apache: "Apache ShardingSphere Committer",
   },
   challenge: "No Code"
