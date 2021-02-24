@@ -14,7 +14,7 @@
 const XiaoYu = {
   pronouns: "she",
   code: [JAVA],
-  tools: [Reactor JAVA, Docker,Spring-Boot,Spring-Cloud],
+  tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern"],
   communities: {
       dromara: "creator of https://dromara.org, author of soul, hmily",
