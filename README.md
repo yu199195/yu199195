@@ -24,9 +24,8 @@ const XiaoYu = {
 }
 ```
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/yu199195/yu199195">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yu199195&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="XiaoYu GitHub Stats" />
+<a href="https://https://dromara.org">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=yu199195&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="XiaoYu GitHub Stats"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu199195&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="XiaoYu Tools"/>
 </a>
 
