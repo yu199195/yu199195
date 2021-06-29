@@ -18,7 +18,7 @@ const XiaoYu = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   communities: {
       dromara: "Founder of https://dromara.org, author to hmily, raincat, myth",
-      apache: "Founder of Apache ShenYu (incubator)",
+      apache: "Founder of Apache ShenYu (incubator) / Apache ShardingSphere Committer",
   },
   challenge: "No Code"
 }
