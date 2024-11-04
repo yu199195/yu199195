@@ -14,7 +14,7 @@
 const XiaoYu = {
   pronouns: "she",
   code: [JAVA],
-  tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
+  book: 《Understanding Distributed Transactions · Principles and Practices》 https://item.jd.com/10038613391666.html
   architecture: ["microservices", "event-driven", "design system pattern"],
   communities: {
       dromara: "Founder of https://dromara.org, author to hmily, raincat, myth",
